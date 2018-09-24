@@ -1,5 +1,5 @@
 ### Purpose ###
-This sample node application is used to test the nodejs job scheduler 'Agenda' and schedule using 
+This sample node application is used to test the nodejs job scheduler 'Agenda' and schedule task using any time stamp 
 
 ### Starting the application ###
  
